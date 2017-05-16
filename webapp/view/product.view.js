@@ -17,6 +17,11 @@ sap.ui.jsview("z_productz_product.view.product", {
 			visibleRowCount: 5,
 			editable: false
 		});
+		
+/*		/*var sEntity = '/FLIGHT';
+		
+		var properties 
+		var oMetaModel =*/
 
 		oTable.addColumn(new sap.ui.table.Column({
 
